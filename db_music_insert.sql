@@ -130,6 +130,6 @@ INSERT INTO compilations(name, year) VALUES
 	('Classic Rock Radio', 2018);
 	
 INSERT INTO compilation_track(compilation_id, track_id) VALUES
-	(1, 8), (1, 9), (2, 10),
-	(2, 11), (2, 12), (3, 14),
-	(3, 15), (3, 16), (3, 17);
+	(1, 20), (1, 21), (2, 22),
+	(2, 24), (2, 25), (3, 29),
+	(3, 31), (3, 32), (3, 35);
